@@ -5,26 +5,13 @@
 ## 🌟 Olá! Eu sou Katharyn 👋
 
 
-🚀 Programadora em formação | 🎯 QA Engineer | 💻 Estudante de C#
+🚀 Desenvolvedora Full Stack | Java (Spring Boot) | React | C#/.NET
 
-Atualmente, trabalho garantindo a qualidade de software como QA, enquanto sigo expandindo meus conhecimentos em diversas linguagens de programação, com um foco especial em C#.
-Sou apaixonada por tecnologia, testes automatizados e o desafio constante de aprender algo novo todos os dias.
+Sou desenvolvedora com experiência em qualidade de software e automação de testes, o que me permite construir aplicações com foco em performance, confiabilidade e boas práticas desde o início.
 
-📚 Estudando: C#, Selenium, testes automatizados, e tudo o que me levar a escrever códigos melhores.
-<br>🌱 Objetivo: Crescer como desenvolvedora e contribuir cada vez mais para a comunidade tech.
+💻 Atualmente, atuo no desenvolvimento de aplicações web utilizando Java com Spring Boot no backend e React no frontend, criando APIs REST e interfaces modernas e responsivas.
 
-🧩 "Cada bug encontrado é uma oportunidade de aprendizado!"
-
-
-<div style="display: flex;text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
-  <br>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Kathyn-dev&&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=00ffea&text_color=FFF&border_radius=3&border_color=02bdad&icon_color=9803fc&theme=jolly" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kathyn-dev&&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=00ffea&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=02bdad&count_private=true" alt="Most Used Languages">
-</div>
-
-
-
+🧠 Meu background como QA agrega uma visão diferenciada ao desenvolvimento, com experiência em testes automatizados utilizando Selenium, JUnit e Cypress, além de integração com pipelines CI/CD.
 
 
 
@@ -36,17 +23,18 @@ Sou apaixonada por tecnologia, testes automatizados e o desafio constante de apr
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  
+  <!-- Spring Boot -->
+  <img align="center" alt="Spring Boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  
   <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="MariaDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Jenkins" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
   <img align="center" alt="Selenium" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
-    <img align="center" alt="Apache" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
 
-
-
-          
-
+  <!-- Apache -->
+  <img align="center" alt="Apache" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
 </div>
   
   ##
